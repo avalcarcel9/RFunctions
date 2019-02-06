@@ -125,17 +125,17 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Adds images to the other slides but not the title slide*/
 .remark-slide-content:not(.title-slide){
-  background-image: url(logosmall.png);
-  background-position: 95% 9%;
-  background-size: 55px;
+  background-image: url(logosmall_trans.png);
+  background-position: 3% 99%;
+  background-size: 30px;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
 /* Adds images to the other slides but not the title slide*/
 .remark-slide-content:not(.inverse){
-  background-image: url(logosmall.png);
-  background-position: 95% 9%;
-  background-size: 55px;
+  background-image: url(logosmall_trans.png);
+  background-position: 3% 99%;
+  background-size: 30px;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
